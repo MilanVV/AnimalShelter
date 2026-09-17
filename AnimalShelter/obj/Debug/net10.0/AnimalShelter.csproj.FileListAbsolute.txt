@@ -1,0 +1,14 @@
+/Users/milanvanvaerenbergh/RiderProjects/AnimalShelter/AnimalShelter/bin/Debug/net10.0/AnimalShelter
+/Users/milanvanvaerenbergh/RiderProjects/AnimalShelter/AnimalShelter/bin/Debug/net10.0/AnimalShelter.deps.json
+/Users/milanvanvaerenbergh/RiderProjects/AnimalShelter/AnimalShelter/bin/Debug/net10.0/AnimalShelter.runtimeconfig.json
+/Users/milanvanvaerenbergh/RiderProjects/AnimalShelter/AnimalShelter/bin/Debug/net10.0/AnimalShelter.dll
+/Users/milanvanvaerenbergh/RiderProjects/AnimalShelter/AnimalShelter/bin/Debug/net10.0/AnimalShelter.pdb
+/Users/milanvanvaerenbergh/RiderProjects/AnimalShelter/AnimalShelter/obj/Debug/net10.0/AnimalShelter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/milanvanvaerenbergh/RiderProjects/AnimalShelter/AnimalShelter/obj/Debug/net10.0/AnimalShelter.AssemblyInfoInputs.cache
+/Users/milanvanvaerenbergh/RiderProjects/AnimalShelter/AnimalShelter/obj/Debug/net10.0/AnimalShelter.AssemblyInfo.cs
+/Users/milanvanvaerenbergh/RiderProjects/AnimalShelter/AnimalShelter/obj/Debug/net10.0/AnimalShelter.csproj.CoreCompileInputs.cache
+/Users/milanvanvaerenbergh/RiderProjects/AnimalShelter/AnimalShelter/obj/Debug/net10.0/AnimalShelter.dll
+/Users/milanvanvaerenbergh/RiderProjects/AnimalShelter/AnimalShelter/obj/Debug/net10.0/refint/AnimalShelter.dll
+/Users/milanvanvaerenbergh/RiderProjects/AnimalShelter/AnimalShelter/obj/Debug/net10.0/AnimalShelter.pdb
+/Users/milanvanvaerenbergh/RiderProjects/AnimalShelter/AnimalShelter/obj/Debug/net10.0/AnimalShelter.genruntimeconfig.cache
+/Users/milanvanvaerenbergh/RiderProjects/AnimalShelter/AnimalShelter/obj/Debug/net10.0/ref/AnimalShelter.dll
